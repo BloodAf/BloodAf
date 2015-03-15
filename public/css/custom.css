@@ -1,0 +1,36 @@
+.main {
+	height: 100vh;
+	width: 100%;
+	text-align: center;	
+	padding-top: 17%;	
+}
+
+.main h1 {
+	font-size: 91px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #C5C5C5;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #C5C5C5;
+}
+
+.btn-inverse:hover, .btn-inverse.hover, .btn-inverse:focus, .btn-inverse:active, .btn-inverse.active, .open > .dropdown-toggle.btn-inverse {
+	  color: #fff;
+	  background-color: #880303;
+	  border-color: #880303;
+}
+
+.searchfordonors {
+	text-align: center;
+	height: 1000px;
+}
+.searchfordonors h1 {
+	font-size: 61px;
+}
